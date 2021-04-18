@@ -1,7 +1,9 @@
 # Lab4Web
 
 Nama  : Alfan Maulana
+
 NIM   : 311910643
+
 Kelas : TI 19 B2
 
 1. Setelah membuat Lab4_box kemudian melakukan pengkodingan pertama dengan hasil seperti ini
